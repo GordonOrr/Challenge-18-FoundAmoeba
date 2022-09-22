@@ -31,21 +31,21 @@ The following animations show examples of the application's API routes being tes
 
 The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
 
-![Mock-Up Gif One](./public/assets/images/mock-up-gif-one.gif?raw=true "Mock-Up Gif One")
+![Mock-Up Gif One](./public/images/mock-up-gif-one.gif?raw=true "Mock-Up Gif One")
 
 The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
 
-![Mock-Up Gif Two](./public/assets/images/mock-up-gif-two.gif?raw=true "Mock-Up Gif Two")
+![Mock-Up Gif Two](./public/images/mock-up-gif-two.gif?raw=true "Mock-Up Gif Two")
 
 The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
 
-![Mock-Up Gif Three](./public/assets/images/mock-up-gif-three.gif?raw=true "Mock-Up Gif Three")
+![Mock-Up Gif Three](./public/images/mock-up-gif-three.gif?raw=true "Mock-Up Gif Three")
 
 In addition to this, your walkthrough video should show the POST, PUT, and DELETE routes for thoughts being tested in Insomnia.
 
 The following animation shows the POST and DELETE routes for a user’s friend list being tested in Insomnia:
 
-![Mock-Up Gif Four](./public/assets/images/mock-up-gif-four.gif?raw=true "Mock-Up Gif Four")
+![Mock-Up Gif Four](./public/assets/mock-up-gif-four.gif?raw=true "Mock-Up Gif Four")
 
 In addition to this, your walkthrough video should show the POST and DELETE routes for reactions to thoughts being tested in Insomnia.
 
