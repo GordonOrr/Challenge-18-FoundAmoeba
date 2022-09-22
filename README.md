@@ -202,7 +202,7 @@ __________________________________________
 ## Website Link
 
 ## Github Repository
-https://github.com/GordonOrr/LostAmoeba
+https://github.com/GordonOrr/FoundAmoeba
 
 ## Video Demonstration
 
